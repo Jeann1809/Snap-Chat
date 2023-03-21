@@ -1,0 +1,27 @@
+.logo {
+    background-image: url(../images/logo-Snapchat.png);
+    background-size: cover;
+    width: 3rem;
+    height: 3rem;
+    background-position: center;
+}
+a {
+    text-decoration: none;
+}
+.bg-sc {
+    background-color: rgb(255, 255, 0);
+
+}
+.txt-sc {
+    color:rgb(255, 255, 0) ;
+}
+.laptop {
+    background-image: url(../images/laptop-asset.png);
+    width: 34rem;
+    height: 23rem;
+    background-size: cover;
+}
+
+.bg-gray {
+    background-color: rgb(24, 24, 24);
+}
